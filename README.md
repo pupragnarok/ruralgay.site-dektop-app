@@ -1,5 +1,5 @@
 # Rural/Queer Community Desktop Applications
-![App Logo](https://github.com/sniffies-nook/Sniffies-Windows-Application/blob/main/favicon.ico)
+![App ]
 
 Desktop applications that wrap ruralgay.site, hitchupnow.gay, and rideorgrind.gay, allowing you to use them as standalone apps on Windows.
 
